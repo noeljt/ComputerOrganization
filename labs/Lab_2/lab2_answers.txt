@@ -1,0 +1,44 @@
+1) 
+	all items
+	all items beginning with "jan"
+	all items beginning w/ jan/feb/mar followed by two characters 
+	all items starting with capital A-Z
+	all items that end with 02
+	mar98
+	all 5 character items
+	all items that dont end with a number
+	all items with a . in them
+	all items that start with a month
+2)
+	number of lines in output of current directory (number of items)
+	number of lines in output of items in current directory ending in .c
+	delete any file with three 3 characters for a name
+	move any items in progrs/ to /users/steve/backup
+	delete any file ending with .o
+	print home directory
+	redirect error message to errors file, run in background
+3)
+	zero or more consecutive s'
+	s followed by zero or more consecutive e's
+	at least 1, at most 5 z's
+	at least 5 z's
+	exactly 10 z's
+	any item beginning with a number
+	any 3 consecutive numbers
+	at least 3, at most 4 consecutive numbers
+	at least 1, at most 3 consecutive numbers, exactly 3 consecutive numbers
+	any items that starts with a letter or underscore followed by a letter 		or number
+	any number
+	Begin on it's own line
+4)
+	any line in names file that congtains 'mary'
+	any line in names file that starts with 'mary'
+	look for lower/uppercase 'unix' in directory starting with ch followed 				by a character
+	ignore upper/lower case and print line numbers searching for mike in 		specified directory
+	first item in the csv
+	outputs characters 12 through 16 of date
+	puts all items in names.txt, separated by ; into phone/nums.txt
+	reverse sorts names, prints out removed (duplicate) items in each group
+	turns {} brackets into () brackets from first file and saves into new 		file
+5)
+	

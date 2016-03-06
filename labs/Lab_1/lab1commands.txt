@@ -1,0 +1,7 @@
+cd and ls
+cp (file) (directory)
+mv (file) (directory)
+touch and rm
+chmod (u/g/o)(+-=)(w/r/x) (file)
+date "+%-F %T"
+gcc helloworld.c; ./a.exe

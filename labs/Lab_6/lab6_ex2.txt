@@ -1,0 +1,8 @@
+Ex. 2	
+
+	slt $t2, $0, $t0         #if 0 < 0x00101000, set $t2 = 0x00000001
+	bne $t2, $0, else        #if $t2 != 0, branch  
+	j done									 
+else: 	addi $t2, $t2, 2   # set $t2 = 1 + 2 = 0x00000011
+done:
+
